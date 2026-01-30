@@ -16,7 +16,7 @@ emissions. The project has been initialised with
 
 1. Transform the data so that it is monthly, not cumulative.
 2. Display the data on a graph with the X-axis being months, and the
-   Y-axis being carbon emitted that week in tCO2e (a standard unit).
+   Y-axis being carbon emitted that month in tCO2e (a standard unit).
 3. The data comprises 3 years, each year should be toggleable on the
    graph. This state should be stored in the URL search params, e.g.
    `?q=2023,2024` only displays data for years `2023` and `2024`.
